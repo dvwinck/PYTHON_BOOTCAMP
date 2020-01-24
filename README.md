@@ -56,6 +56,10 @@ Canal do Slack para comunicação:
 
 https://join.slack.com/t/pythonbootcamp-group/shared_invite/enQtOTA2MTQ4MTE2NDk4LWUxNTU1OGVhNjk2OWY2YmFhOTQwYWY4OWNkNWUxZGI4N2EwMTIxMjQ4Zjg1NTMwNTg3NzlmNWI1YTYzY2MwMTg
 
+Apresentação:
+
+https://docs.google.com/presentation/d/1i6zLBbCCh0dQOvyOCKUiBUPtrHjbRMGkHlvHP15M4oA/edit?usp=sharing
+
 ---
 Rodrigo Lucchesi 
 
