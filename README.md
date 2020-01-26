@@ -52,6 +52,10 @@ O conteúdo das aulas serão divididos conforme segue:
 
 ---
 
+Tutorial para o desenvolvimento da API:
+https://wsvincent.com/official-django-rest-framework-tutorial-beginners-guide/
+
+
 Canal do Slack para comunicação:
 
 https://join.slack.com/t/pythonbootcamp-group/shared_invite/enQtOTA2MTQ4MTE2NDk4LWUxNTU1OGVhNjk2OWY2YmFhOTQwYWY4OWNkNWUxZGI4N2EwMTIxMjQ4Zjg1NTMwNTg3NzlmNWI1YTYzY2MwMTg
